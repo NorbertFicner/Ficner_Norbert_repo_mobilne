@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InputOutputToFileNorbertFicner</string>
+    <string name="load">WCZYTAJ</string>
+    <string name="save">ZAPISZ</string>
+    <string name="hint">Wpisz tekst który zostanie zapisany</string>
+</resources>
