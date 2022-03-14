@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="save">SAVE</string>
+    <string name="delete">DELETE</string>
+    <string name="titleHint">Title of note</string>
+    <string name="contentOfNoteHint">Start write content!</string>
 </resources>
